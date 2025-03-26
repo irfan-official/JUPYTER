@@ -1,0 +1,12 @@
+# Open Application
+venv\Scripts\activate
+jupyter lab
+
+open in ->  http://localhost:8888/lab
+
+
+
+
+# Open terminal
+venv\Scripts\activate
+venv\Scripts\Activate.ps1
